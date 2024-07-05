@@ -1,3 +1,4 @@
-<?php echo "my respository" ?>
-<?php echo "My name is Natnicha" ?>
-
+<?php 
+    echo "<h1>my respository</h1>" 
+    echo "<h1>My name is EIEI </h1>"
+?>
